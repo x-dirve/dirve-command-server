@@ -1,6 +1,6 @@
 {
-  "name": "scrat-command-server",
-  "version": "0.0.21",
+  "name": "drive-command-server",
+  "version": "1.0.0",
   "description": "scrat server",
   "main": "index.js",
   "scripts": {
@@ -8,21 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scrat-team/scrat-command-server.git"
+    "url": "https://github.com/x-drive/drive-command-server.git"
   },
   "keywords": [
     "fis",
-    "scrat",
+    "drive",
     "server"
   ],
   "author": "fouber <fouber.NET@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scrat-team/scrat-command-server/issues"
+    "url": "https://github.com/x-drive/drive-command-server/issues"
   },
-  "homepage": "https://github.com/fouber/scrat-command-server",
   "dependencies": {
     "hasbin": "^1.1.2",
-    "node-dev": "2.6.2"
+    "node-dev": "3.1.3"
   }
 }
