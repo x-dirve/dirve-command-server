@@ -8,6 +8,7 @@
 var child_process = require('child_process');
 var spawn = child_process.spawn;
 var hasbin = require('hasbin');
+var nodePath = require("path");
 
 exports.name = 'server';
 exports.usage = '<command> [options]';
