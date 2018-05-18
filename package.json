@@ -1,28 +1,23 @@
 {
-  "name": "drive-command-server",
-  "version": "1.0.1",
-  "description": "scrat server",
+  "name": "dirve-command-server",
+  "version": "1.0.0",
+  "description": "dirve server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/x-drive/drive-command-server.git"
+    "url": "git+https://github.com/x-drive/dirve-command-server.git"
   },
   "keywords": [
     "fis",
     "drive",
     "server"
   ],
-  "author": "fouber <fouber.NET@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/x-drive/drive-command-server/issues"
-  },
   "dependencies": {
     "hasbin": "^1.1.2",
     "node-dev": "3.1.3"
-  },
-  "homepage": "https://github.com/x-drive/drive-command-server#readme"
+  }
 }
